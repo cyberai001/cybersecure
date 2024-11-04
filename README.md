@@ -1,16 +1,13 @@
-# cyberai2
+cyberai2
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a cyber security application
 
-A few resources to get you started if this is your first Flutter project:
+created and submitted by
+students of AHALIA SCHOOL OF ENGINEERNING AND TECHNOLOGY,
+Midhun M(ATP23CS047), Vishnu CP(ATP23CS030), Abhiram K(FIT23CS006).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+mmidhu781@gmail.com
+abhi06hs@gmail.com
